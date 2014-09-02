@@ -1,0 +1,71 @@
+/* Pseudocode instructions to complete integer tasks
+*/
+// access and NameOfFile  
+public class IntegerTasks
+{
+	// method statement - 
+	public static void main(String[] args)
+	{
+		//assign values to numbers X,Y and Z;
+			int X = 10;
+			int Y = 43;
+			int Z = 15;
+			int result = X + Y + Z);
+		//use print statement to print values for X,Y and Z;
+			System.out.println("X: " X);
+			System.out.println("Y: " Y);
+			System.out.println("Z: " Z);
+		//use print statement to print result of sum(X,Y,Z);
+			System.out.println("The sum of X, Y and Z is: " result);
+		//use print statement to print result of product (X, Y, Z);
+			System.out.println("The product of X, Y, Z is: " X * Y * Z);
+	}
+}
+_________________________________________________________________________
+
+/* Pseudocode instructions to walk a dog
+*/
+access and NameOfFile
+{
+	method statement
+	{
+		put on trainers and coat if wet;
+		pick up poo bags;
+		pick up treat bag;
+		call dog ;
+		clip lead to collar;
+		pick up key and leave house - check you have key before closing door;
+		close door and lock;
+		walk to grass verge;
+		let dog do her thing;
+		pick up mess if necessary;
+		walk to field;
+		tell dog "sit";
+		unclip lead;
+		let dog run about;
+		after x minutes or if people/dogs about call dog back;
+		if dog is reluctant use treats or walk away as incentive;
+		tell dog "sit";
+		clip lead to collar;
+		walk back to house;
+	}
+}
+
+__________________________________________________________________________
+
+/* Pseudocode instructions to order a pizza
+*/
+access and NameOfFile
+{
+	method statement
+	{
+		check time;
+		Google pizza menu;
+		ask husband what toppings he wants;
+		call pizza place;
+		give order;
+		confirm payment method;
+		check delivery time;
+		end call;
+	}
+}
